@@ -1,0 +1,10 @@
+C:\Users\windows\Desktop\MarsProjectEsenturk\MarsProjectEsenturk\MarsProjectEsenturk.Domain\bin\Debug\MarsProjectEsenturk.Domain.dll
+C:\Users\windows\Desktop\MarsProjectEsenturk\MarsProjectEsenturk\MarsProjectEsenturk.Domain\bin\Debug\MarsProjectEsenturk.Domain.pdb
+C:\Users\windows\Desktop\MarsProjectEsenturk\MarsProjectEsenturk\MarsProjectEsenturk.Domain\obj\Debug\MarsProjectEsenturk.Domain.dll
+C:\Users\windows\Desktop\MarsProjectEsenturk\MarsProjectEsenturk\MarsProjectEsenturk.Domain\obj\Debug\MarsProjectEsenturk.Domain.pdb
+C:\Users\sesenturk\Desktop\MarsProjectEsenturk\MarsProjectEsenturk\MarsProjectEsenturk.Domain\bin\Debug\MarsProjectEsenturk.Domain.dll
+C:\Users\sesenturk\Desktop\MarsProjectEsenturk\MarsProjectEsenturk\MarsProjectEsenturk.Domain\bin\Debug\MarsProjectEsenturk.Domain.pdb
+C:\Users\sesenturk\Desktop\MarsProjectEsenturk\MarsProjectEsenturk\MarsProjectEsenturk.Domain\obj\Debug\MarsProjectEsenturk.Business.csprojAssemblyReference.cache
+C:\Users\sesenturk\Desktop\MarsProjectEsenturk\MarsProjectEsenturk\MarsProjectEsenturk.Domain\obj\Debug\MarsProjectEsenturk.Business.csproj.CoreCompileInputs.cache
+C:\Users\sesenturk\Desktop\MarsProjectEsenturk\MarsProjectEsenturk\MarsProjectEsenturk.Domain\obj\Debug\MarsProjectEsenturk.Domain.dll
+C:\Users\sesenturk\Desktop\MarsProjectEsenturk\MarsProjectEsenturk\MarsProjectEsenturk.Domain\obj\Debug\MarsProjectEsenturk.Domain.pdb

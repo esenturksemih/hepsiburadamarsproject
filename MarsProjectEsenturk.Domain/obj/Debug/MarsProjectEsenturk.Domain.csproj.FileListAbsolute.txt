@@ -1,0 +1,4 @@
+C:\Users\windows\Desktop\MarsProjectEsenturk\MarsProjectEsenturk\MarsProjectEsenturk.Domain\bin\Debug\MarsProjectEsenturk.Domain.dll
+C:\Users\windows\Desktop\MarsProjectEsenturk\MarsProjectEsenturk\MarsProjectEsenturk.Domain\bin\Debug\MarsProjectEsenturk.Domain.pdb
+C:\Users\windows\Desktop\MarsProjectEsenturk\MarsProjectEsenturk\MarsProjectEsenturk.Domain\obj\Debug\MarsProjectEsenturk.Domain.dll
+C:\Users\windows\Desktop\MarsProjectEsenturk\MarsProjectEsenturk\MarsProjectEsenturk.Domain\obj\Debug\MarsProjectEsenturk.Domain.pdb
